@@ -1,5 +1,5 @@
 {
-  "name": "next-course",
+  "name": "tax-rebate-specialists-react",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -10,8 +10,10 @@
   },
   "dependencies": {
     "next": "12.1.6",
+    "next-auth": "^4.6.1",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "sqlite3": "^5.0.8"
   },
   "devDependencies": {
     "eslint": "8.18.0",
