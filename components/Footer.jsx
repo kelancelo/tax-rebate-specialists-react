@@ -19,7 +19,7 @@ export default function Footer() {
                                         data-link="a2f"
                                     >
                                         <Image
-                                            src="/wp-content/themes/tax-rebate-specialists/assets/images/trs-logo-color.svg"
+                                            src="/wp-content/themes/tax-rebate-specialists/assets/images/TRS-Logo-Color.svg"
                                             loading="lazy"
                                             alt="company logo"
                                             className="footer_logo"
