@@ -1,6 +1,5 @@
 import Link from 'next/link'
-// import Image from 'next/image'
-// import trsLogoColor from '../public/wp-content/themes/tax-rebate-specialists/assets/images/trs-logo-color.svg'
+import Image from 'next/image'
 
 export default function Footer() {
     return (
@@ -19,12 +18,14 @@ export default function Footer() {
                                         className="footer_logo-link w-nav-brand w--current"
                                         data-link="a2f"
                                     >
-                                        <img
+                                        <Image
                                             src="/wp-content/themes/tax-rebate-specialists/assets/images/trs-logo-color.svg"
                                             loading="lazy"
                                             alt="company logo"
                                             className="footer_logo"
                                             data-img="i52c0a069"
+                                            width={400}
+                                            height={254.5}
                                         />
                                     </a>
                                 </Link>
