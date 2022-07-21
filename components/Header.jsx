@@ -1,5 +1,7 @@
 import { useRef, useEffect } from "react"
+// import Image from "next/image"
 import BeginQualifyButton from "./BeginQualifyButton"
+// import businessOwners2 from '../public/wp-content/themes/tax-rebate-specialists/assets/images/business-owners-2.jpg'
 
 export default function Header() {
     const headerImageRef = useRef(null)

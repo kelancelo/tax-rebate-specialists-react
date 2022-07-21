@@ -1,5 +1,7 @@
 import Link from "next/link"
+import Image from "next/image"
 import BeginQualifyButton from "./BeginQualifyButton"
+// import trsLogoWhite from '../public/wp-content/themes/tax-rebate-specialists/assets/images/trs-logo-white-horizontal.svg'
 
 export default function Navbar() {
     return (
@@ -26,12 +28,12 @@ export default function Navbar() {
                             data-link="a2f"
                             aria-label="home"
                         >
-                            <img
+                            <Image
                                 src="/wp-content/themes/tax-rebate-specialists/assets/images/trs-logo-white-horizontal.svg"
-                                loading="lazy"
                                 alt="Tax Rebate Specialists logo"
                                 className="navbar_logo"
                                 data-img="in43925152"
+                                layout="fill"
                             />
                         </a>
                     </Link>

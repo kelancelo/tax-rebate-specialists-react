@@ -1,5 +1,7 @@
 import Link from "next/link"
 import Head from "next/head"
+import Image from "next/image"
+import throbber from '../public/wp-content/plugins/affiliates/images/affiliates-throbber.gif'
 
 export default function Affiliate() {
     return (
@@ -23,10 +25,11 @@ export default function Affiliate() {
                                             className="affiliates-registration"
                                             id="affiliates-registration"
                                         >
-                                            <img
+                                            <Image
                                                 id="affiliates-registration-throbber"
-                                                src="/wp-content/plugins/affiliates/images/affiliates-throbber.gif"
+                                                src={throbber}
                                                 style={{ display: "none" }}
+                                                alt="red dot"
                                             />
                                             <form id="affiliates-registration-form" method="post">
                                                 <div>

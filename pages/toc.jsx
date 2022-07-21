@@ -26,18 +26,18 @@ export default function TOC() {
                                 </div>
                                 <div className="margin-bottom margin-small">
                                     <p data-text="t2402d519">
-                                        These terms and conditions ("Agreement") set forth the general
+                                        These terms and conditions (&quot;Agreement&quot;) set forth the general
                                         terms and conditions of your use of the ercspecialists.com website
-                                        ("Website" or "Service") and any of its related products and
-                                        services (collectively, "Services"). This Agreement is legally
-                                        binding between you ("User", "you" or "your") and Tax Rebate
-                                        Specialists ("Tax Rebate Specialists," "TRS," "we," "us," or
-                                        "our"). By accessing and using the Website and Services, you
+                                        (&quot;Website&quot; or &quot;Service&quot;) and any of its related products and
+                                        services (collectively, &quot;Services&quot;). This Agreement is legally
+                                        binding between you (&quot;User&quot;, &quot;you&quot; or &quot;your&quot;) and Tax Rebate
+                                        Specialists (&quot;Tax Rebate Specialists,&quot; &quot;TRS,&quot; &quot;we,&quot; &quot;us,&quot; or
+                                        &quot;our&quot;). By accessing and using the Website and Services, you
                                         acknowledge that you have read, understood, and agree to be bound
                                         by the terms of this Agreement. If you are entering into this
                                         Agreement on behalf of a business or other legal entity, you
                                         represent that you have the authority to bind such entity to this
-                                        Agreement, in which case the terms "User", "you" or "your" shall
+                                        Agreement, in which case the terms &quot;User&quot;, &quot;you&quot; or &quot;your&quot; shall
                                         refer to such entity. If you do not have such authority, or if you
                                         do not agree with the terms of this Agreement, you must not accept
                                         this Agreement and may not access and use the Website and
@@ -151,7 +151,7 @@ export default function TOC() {
                                 </div>
                                 <div className="margin-bottom margin-small">
                                     <p data-text="tn7cf10389">
-                                        "Intellectual Property Rights" means all present and future rights
+                                        &quot;Intellectual Property Rights&quot; means all present and future rights
                                         conferred by statute, common law, or equity in or in relation to
                                         any copyright and related rights, trademarks, designs, patents,
                                         inventions, goodwill and the right to sue for passing off, rights
@@ -182,8 +182,8 @@ export default function TOC() {
                                 </div>
                                 <div className="margin-bottom margin-small">
                                     <p data-text="tn348e5e33">
-                                        You agree that such Service is provided on an "as is" and "as
-                                        available" basis and that your use of the Website and Services is
+                                        You agree that such Service is provided on an &quot;as is&quot; and &quot;as
+                                        available&quot; basis and that your use of the Website and Services is
                                         solely at your own risk. We expressly disclaim all warranties of
                                         any kind, whether express or implied, including but not limited to
                                         the implied warranties of merchantability, fitness for a
@@ -245,7 +245,7 @@ export default function TOC() {
                                         You agree to indemnify and hold Tax Rebate Specialists and its
                                         affiliates, directors, officers, employees, agents, suppliers, and
                                         licensors harmless from and against any liabilities, losses,
-                                        damages, or costs, including reasonable attorneys' fees, incurred
+                                        damages, or costs, including reasonable attorneys&apos; fees, incurred
                                         in connection with or arising from any third party allegations,
                                         claims, actions, disputes, or demands asserted against any of them
                                         as a result of or relating to your Content, your use of the
@@ -354,7 +354,7 @@ export default function TOC() {
                                 </div>
                                 <div className="margin-bottom margin-small">
                                     <p data-text="t200f6f44">
-                                        This website (the "Site") is a general service that provides legal
+                                        This website (the &quot;Site&quot;) is a general service that provides legal
                                         information over the Internet. We are not a law firm and our
                                         employees are not acting as your attorney. The information
                                         contained in the Site is general legal information and should not
@@ -377,7 +377,7 @@ export default function TOC() {
                                         Conditions. For the most part, our Terms and Conditions specify
                                         that there is no guarantee or warranty and that we are not
                                         responsible for any loss, injury, claim, liability, or damage
-                                        ("damages") related to your use of the Site, whether from errors
+                                        (&quot;damages&quot;) related to your use of the Site, whether from errors
                                         or omissions in the content of the Site or any other linked sites.
                                         We are not responsible for any damages from the Site being
                                         inaccessible to the user and use of the Site is at your own risk.
@@ -437,7 +437,7 @@ export default function TOC() {
                                         best of your knowledge and agree to hold Tax Rebate Specialists
                                         and its affiliates, directors, officers, employees, agents,
                                         suppliers and licensors harmless from and against any liabilities,
-                                        losses, damages or costs, including reasonable attorneys' fees,
+                                        losses, damages or costs, including reasonable attorneys&apos; fees,
                                         incurred as a result of inaccuracies on your ERC filing as a
                                         results of inaccurate information provided to us during the
                                         qualification submission. Tax Rebate Specialists will keep record

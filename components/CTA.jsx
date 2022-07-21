@@ -11,7 +11,7 @@ export default function CTA1({className}) {
                                 <div className="margin-bottom margin-small">
                                     <h2 className="text-color-white" data-textarea="ta5a138cc9">
                                         These funds <br />
-                                        won't last forever
+                                        won&apos;t last forever
                                     </h2>
                                 </div>
                                 <p
@@ -19,7 +19,7 @@ export default function CTA1({className}) {
                                     data-text="t13c641b9"
                                 >
                                     Take advantage of the Employee Retention Credit (ERC) before it
-                                    runs out of money. Let's go after your ERC rebate today.
+                                    runs out of money. Let&apos;s go after your ERC rebate today.
                                 </p>
                                 <div className="margin-top margin-small">
                                     <div className="button-row">

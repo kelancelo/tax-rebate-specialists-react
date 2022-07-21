@@ -1,4 +1,6 @@
 import { useState } from "react"
+import Image from "next/image"
+import plusIcon from '../public/wp-content/themes/tax-rebate-specialists/assets/images/icon_plus.svg'
 
 export default function Faq({ question, answer }) {
     const [open, setOpen] = useState(false)
@@ -27,13 +29,12 @@ export default function Faq({ question, answer }) {
                 >
                     {question}
                 </div>
-                <img
-                    src="wp-content/themes/tax-rebate-specialists/assets/images/icon_plus.svg"
+                <Image
+                    src={plusIcon}
                     loading="lazy"
-                    alt=""
+                    alt="plus icon"
                     className="faq_icon"
                     data-img="i2f4ef33c"
-                    srcSet=""
                     style={{...imgStyles, transition: 'transform 250ms', cursor: 'pointer'}}
                     onClick={() => setOpen(!open)}
                 />

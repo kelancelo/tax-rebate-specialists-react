@@ -16,16 +16,16 @@ export default function PrivacyPolicy() {
                                 </div>
                                 <div className="margin-bottom margin-small">
                                     <p className="text-size-medium" data-text="tn695eb7a0">
-                                        This privacy policy ("Policy") describes how the personally
-                                        identifiable information ("Personal Information") you may provide
-                                        on the TaxRebateSpecialists.com website ("Website" or "Service")
+                                        This privacy policy (&quot;Policy&quot;) describes how the personally
+                                        identifiable information (&quot;Personal Information&quot;) you may provide
+                                        on the TaxRebateSpecialists.com website (&quot;Website&quot; or &quot;Service&quot;)
                                         and any of its related products and services (collectively,
-                                        "Services") is collected, protected and used. It also describes
+                                        &quot;Services&quot;) is collected, protected and used. It also describes
                                         the choices available to you regarding our use of your Personal
                                         Information and how you can access and update this information.
-                                        This Policy is a legally binding agreement between you ("User",
-                                        "you" or "your") and Tax Rebate Specialists ("Tax Rebate
-                                        Specialists," "TRS," "we," "us," or "our"). By accessing and using
+                                        This Policy is a legally binding agreement between you (&quot;User&quot;,
+                                        &quot;you&quot; or &quot;your&quot;) and Tax Rebate Specialists (&quot;Tax Rebate
+                                        Specialists,&quot; &quot;TRS,&quot; &quot;we,&quot; &quot;us,&quot; or &quot;our&quot;). By accessing and using
                                         the Website and Services, you acknowledge that you have read,
                                         understood, and agree to be bound by the terms of this Policy.
                                         This Policy does not apply to the practices of companies that we
@@ -177,7 +177,7 @@ export default function PrivacyPolicy() {
                                 <div className="margin-bottom margin-small">
                                     <p data-text="t26638942">
                                         We use third party payment processors to assist us in processing
-                                        your payment information securely. Such third party processors'
+                                        your payment information securely. Such third party processors&apos;
                                         use of your Personal Information is governed by their respective
                                         privacy policies which may or may not contain privacy protections
                                         as protective as this Policy. We suggest that you review their
@@ -424,7 +424,7 @@ export default function PrivacyPolicy() {
                                         under the age of 13. If you are under the age of 13, please do not
                                         submit any Personal Information through the Website and Services.
                                         We encourage parents and legal guardians to monitor their
-                                        children's Internet usage and to help enforce this Policy by
+                                        children&apos;s Internet usage and to help enforce this Policy by
                                         instructing their children never to provide Personal Information
                                         through the Website and Services without their permission. If you
                                         have reason to believe that a child under the age of 13 has
@@ -442,7 +442,7 @@ export default function PrivacyPolicy() {
                                 </div>
                                 <div className="margin-bottom margin-small">
                                     <p data-text="t13f995b4">
-                                        The Website and Services use "cookies" to help personalize your
+                                        The Website and Services use &quot;cookies&quot; to help personalize your
                                         online experience. A cookie is a text file that is placed on your
                                         hard disk by a web page server. Cookies cannot be used to run
                                         programs or deliver viruses to your computer. Cookies are uniquely
